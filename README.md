@@ -33,3 +33,16 @@
 👉 사용자의 프롬프트를 받아 Ollama에 전달하고, Ollama의 응답에 따라 JetBot을 제어하고, 결과를 사용자에게 반환
 👉 TTS 엔진을 사용하여 텍스트를 음성으로 변환하고, 대화 내용을 메모리에 저장하는 기능도 제공
 4) 객체 추적: 미리 학습된 객체 감지 모델을 다운로드하여 Jetbot에 적용
+
+<br>
+
+## 결과
+✔️ 약 200여장의 사진을 직접 수집하고, Jetbot 링크에서 얻은 이미지로 훈련시켰다.
+<br>
+
+### 사물인식 및 객체추적
+<p align="center"><img src = "https://github.com/user-attachments/assets/c98a0cea-c545-43a1-a861-4f6983b341b8" width="20%" height="20%"></p> 
+<br>
+
+### 도로주행
+<p align="center"><img src = "https://github.com/user-attachments/assets/ca29bc3f-ebef-41cb-be21-729dae1fb07a" width="40%" height="40%"></p>
