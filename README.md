@@ -37,7 +37,7 @@
 <br>
 
 ## 결과
-✔️ 약 200여장의 사진을 직접 수집하고, Jetbot 링크에서 얻은 이미지로 훈련시켰다.
+✔️ 약 200여장의 사진을 직접 수집하고, [Jetbot 링크](https://jetbot.org/master/software_setup/sd_card.html)에서 얻은 이미지로 훈련시켰다.
 <br>
 
 ### 사물인식 및 객체추적
@@ -46,3 +46,11 @@
 
 ### 도로주행
 <p align="center"><img src = "https://github.com/user-attachments/assets/ca29bc3f-ebef-41cb-be21-729dae1fb07a" width="40%" height="40%"></p>
+
+<br>
+
+## 참고자료
+1. [잿봇 마스터](https://jetbot.org/master/) <br>
+2. [알쌤의 AI 챗봇 프로젝트 깃허브 링크](https://github.com/jetsonai/DeepLearning4Projects/tree/main) <br>
+3. [알쌤의 AI 챗봇 프로젝트](https://www.youtube.com/channel/UCjNAGDGnTtlIC4C0L59K8ig)
+
