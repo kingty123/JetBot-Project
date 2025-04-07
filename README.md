@@ -46,6 +46,16 @@
 
 ### 도로주행
 <p align="center"><img src = "https://github.com/user-attachments/assets/ca29bc3f-ebef-41cb-be21-729dae1fb07a" width="40%" height="40%"></p>
+<br>
+
+### 외부 서버에 의한 AI 자율주행
+<br>
+: 영상에서 Jetbot이 주행하던 중, 길을 건너는 사람을 인지하고 멈추는 것을 확인할 수 있다.
+
+https://github.com/user-attachments/assets/46d9c373-95c0-4229-a583-788c60559b52
+
+
+
 
 <br>
 
